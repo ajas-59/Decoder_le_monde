@@ -1,2 +1,3 @@
-# Decoder_le_monde
+# Decoder le monde
+
 Projet Pépite EdTech : pour devenir étudiant entrepreneur
