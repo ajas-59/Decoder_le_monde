@@ -45,7 +45,7 @@ Chaque module propose un mini-projet concret à réaliser, autour de thèmes mot
 
 ## 🤝 Contexte
 
-Ce projet est développé dans le cadre du **statut étudiant-entrepreneur (Pépite)** et du **Diplôme d'Établissement Étudiant-Entrepreneur (D2E)**, à Sorbonne Université.
+Ce projet est développé dans le cadre du **statut étudiant-entrepreneur de Pépite France** et du **Diplôme d'Établissement Étudiant-Entrepreneur (D2E)**.
 
 Il s’appuie sur mon parcours en :
 - Sciences du langage et linguistique computationnelle
